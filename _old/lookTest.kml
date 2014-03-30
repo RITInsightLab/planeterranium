@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Earth API KML Article Sample</name>
+    <LookAt>
+      <longitude>-109.929</longitude>
+      <latitude>-15.9734</latitude>
+      <range>1000000</range>
+    </LookAt>
+  </Document>
+</kml>

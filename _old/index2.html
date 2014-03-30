@@ -1,0 +1,19 @@
+<html>
+<head>
+ <script language="JavaScript">
+ function keyHandler(e)
+ {
+ 	var pressedKey;
+ 	if (document.all)	{ e = window.event; }
+ 	if (document.layers) { pressedKey = e.which; }
+ 	if (document.all)	{ pressedKey = e.keyCode; }
+ 	pressedCharacter = String.fromCharCode(pressedKey);
+ 	alert(' Character = ' + pressedCharacter + ' [Decimal value = ' + pressedKey + ']');
+ }
+ document.onkeypress = keyHandler;
+ </script>
+</head>
+<body>
+Press
+</body>
+</html>

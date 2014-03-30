@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Earth API KML Article Sample</name>
+    <LookAt>
+      <longitude>-122.6019092122753</longitude>
+      <latitude>37.79754178141562</latitude>
+      <range>10000</range>
+    </LookAt>
+    <!-- Point Placemark -->
+    <Placemark>
+      <name>Hello, Earth API!</name>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+          </Icon>
+          <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.6019092122753,37.79754178141562,0</coordinates>
+      </Point>
+    </Placemark>
+    <!-- LineString Placemark -->
+    <Placemark>
+      <name>Path</name>
+      <Style>
+        <LineStyle>
+          <color>8000ffff</color>
+          <width>10</width>
+        </LineStyle>
+      </Style>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -122.6294072131804,37.78070448433935,0
+          -122.6060178553204,37.79308109966063,0
+          -122.5994909477651,37.78366884280404,0
+          -122.5745875848465,37.7963818374369,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <!-- Polygon Placemark -->
+    <Placemark>
+      <name>Polygon</name>
+      <Style>
+        <PolyStyle>
+          <color>ff0000ff</color>
+          <outline>0</outline>
+        </PolyStyle>
+      </Style>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -122.603342765523,37.80848188238179,0
+              -122.59281964908,37.80492188939625,0
+              -122.5848624703069,37.80776433129196,0
+              -122.5878939818387,37.81416595215351,0
+              -122.5992170485817,37.81772477364498,0
+              -122.603342765523,37.80848188238179,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <!-- GroundOverlay -->
+    <GroundOverlay>
+      <name>GroundOverlay</name>
+      <Icon>
+        <href>http://insight.rit.edu/plntr/ge/images/testImg.jpg</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>37.80533086088634</north>
+        <south>37.79696872797933</south>
+        <east>-122.6098439020225</east>
+        <west>-122.6363995437516</west>
+      </LatLonBox>
+    </GroundOverlay>
+  </Document>
+</kml>

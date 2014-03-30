@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" hint="target=mars">
+<Folder>
+	<name>Mars Test</name>
+	<open>1</open>
+	<GroundOverlay>
+		<name>02</name>
+		<Icon>
+			<href>http://insight.rit.edu/sd/plntr/ge/images/02.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>-3.946332746813353</north>
+			<south>-27.87916086403456</south>
+			<east>-90.92652882259318</east>
+			<west>-128.5537677025658</west>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>01</name>
+		<Icon>
+			<href>http://insight.rit.edu/sd/plntr/ge/images/testImg.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>11.23253917458843</north>
+			<south>-23.2874123838815</south>
+			<east>-37.71584170518423</east>
+			<west>-79.29378692167522</west>
+			<rotation>-12.40787276418055</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+</Folder>
+</kml>

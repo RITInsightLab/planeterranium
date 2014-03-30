@@ -1,0 +1,29 @@
+POTENTIALS
+http://hirise.lpl.arizona.edu/anaglyph/singula.php?ID=PSP_001645_1725
+http://hirise.lpl.arizona.edu/anaglyph/singula.php?ID=PSP_002172_1410
+http://hirise.lpl.arizona.edu/anaglyph/singula.php?ID=ESP_027800_1685
+http://hirise.lpl.arizona.edu/anaglyph/singula.php?ID=ESP_018218_1755
+http://hirise.lpl.arizona.edu/anaglyph/singula.php?ID=ESP_027439_2200
+http://hirise.lpl.arizona.edu/anaglyph/singula.php?ID=ESP_026171_2505
+http://hirise.lpl.arizona.edu/anaglyph/singula.php?ID=ESP_026626_1885
+http://hirise.lpl.arizona.edu/anaglyph/singula.php?ID=ESP_020577_2130
+http://hirise.lpl.arizona.edu/anaglyph/singula.php?ID=ESP_021491_1440
+http://www.uahirise.org/anaglyph/singula.php?ID=ESP_016083_2205
+http://hirise.lpl.arizona.edu/anaglyph/singula.php?ID=ESP_020119_1895
+
+DONE
+http://hirise.lpl.arizona.edu/anaglyph/singula.php?ID=ESP_020875_1490  -CRL001
+http://hirise.lpl.arizona.edu/anaglyph/singula.php?ID=PSP_004006_1900  -CRL002
+http://hirise.lpl.arizona.edu/anaglyph/singula.php?ID=ESP_029376_1900  -CRL003
+http://hirise.lpl.arizona.edu/anaglyph/singula.php?ID=PSP_002420_2040  -CRL004
+http://hirise.lpl.arizona.edu/anaglyph/singula.php?ID=ESP_029051_1660  -CRL005
+http://hirise.lpl.arizona.edu/anaglyph/singula.php?ID=ESP_027556_1875  -CRL006
+http://hirise.lpl.arizona.edu/anaglyph/singula.php?ID=PSP_002099_1720  -CRL007
+http://hirise.lpl.arizona.edu/ESP_029854_1890			        -CRL008
+http://www.uahirise.org/anaglyph/singula.php?ID=ESP_013157_2015       -CRL009
+http://www.uahirise.org/anaglyph/singula.php?ID=ESP_013066_1070       -CRL010
+http://hirise.lpl.arizona.edu/anaglyph/singula.php?ID=ESP_029064_1380  -CRL011 
+http://hirise.lpl.arizona.edu/anaglyph/singula.php?ID=PSP_002290_1585  -CRL012
+http://hirise.lpl.arizona.edu/anaglyph/singula.php?ID=PSP_001760_2160  -CRL013
+http://www.uahirise.org/anaglyph/singula.php?ID=ESP_012996_2145       -CRL014
+http://www.uahirise.org/anaglyph/singula.php?ID=ESP_012547_2035       -CRL015
